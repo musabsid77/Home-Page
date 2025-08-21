@@ -30,10 +30,7 @@ The "Contact Our Company" webpage allows visitors to:
 
 ## Screenshots
 
-*(Add screenshots in this section once you have them)*
-Example placeholder:
-
-![Contact Page Screenshot](./assets/images/contact-page-preview.png)
+assets/images/home-screen-ss.jpeg
 
 ## Contact
 

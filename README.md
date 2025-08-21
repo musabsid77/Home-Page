@@ -30,7 +30,7 @@ The "Contact Our Company" webpage allows visitors to:
 
 ## Screenshots
 
-assets/images/home-screen-ss.jpeg
+C:\Users\dell 7480 i7\Desktop\MS\Home-Page\assets\images\home-screen-ss.jpeg
 
 ## Contact
 
@@ -43,3 +43,6 @@ This project is open for use and modification. No license currently applied.
 ---
 
 ## Thank you for using the Contact Our Company page! We hope it simplifies communication and enhances user engagement with your business.
+
+
+

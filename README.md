@@ -28,7 +28,7 @@ The "Contact Our Company" webpage allows visitors to:
 ## Technologies Used
 * **HTML5**: For semantic structure and content organization.
 
-## Screenshots
+## Screenshot
 
 ![Home Screen](https://raw.githubusercontent.com/musabsid77/Home-Page/main/assets/images/home-screen-ss.jpeg)
 

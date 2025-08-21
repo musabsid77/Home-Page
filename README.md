@@ -1,5 +1,5 @@
 # 📞 Contact Our Company Page
-A well-structured HTML page designed to enable users to easily reach out to your business. This project presents a clear, accessible interface with a contact form, office hours, location details, and navigation links—all built using semantic HTML.
+A well-structured HTML page designed to enable users to easily reach out to your business. This project presents a clear, accessible interface with a contact form, office hours, location details, and navigation links all built using semantic HTML.
 
 ## 📋 Project Overview
 The "Contact Our Company" webpage allows visitors to:

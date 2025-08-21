@@ -30,7 +30,7 @@ The "Contact Our Company" webpage allows visitors to:
 
 ## Screenshots
 
-C:\Users\dell 7480 i7\Desktop\MS\Home-Page\assets\images\home-screen-ss.jpeg
+![Home Screen](https://raw.githubusercontent.com/musabsid77/Home-Page/main/assets/images/home-screen-ss.jpeg)
 
 ## Contact
 
